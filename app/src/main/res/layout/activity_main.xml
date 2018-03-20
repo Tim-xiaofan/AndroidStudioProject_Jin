@@ -19,7 +19,7 @@
     <Button
         android:id="@+id/start_normal_activity"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="60dp"
         android:text="Start NormalActivity"
         app:layout_constraintBottom_toTopOf="@+id/start_dialog_activity"
         app:layout_constraintEnd_toEndOf="parent"
